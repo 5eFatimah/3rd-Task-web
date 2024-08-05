@@ -1,5 +1,9 @@
 # 3rd Task - ChatBot with Node.js and React
 
+
+https://github.com/user-attachments/assets/ebb7126e-e63e-4500-ab2c-2e58f766d8ae
+
+
 ### Setting Up the React App with Vite
 1 - Create a new Vite project:
   ```
